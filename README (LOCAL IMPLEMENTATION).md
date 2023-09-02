@@ -7,7 +7,7 @@ Steps to Set Up and Run the DApp
 
 Create a new directory for your project and navigate to it in the terminal.
 Inside the project directory, create a new directory called contracts.
-Create a new Solidity file within the contracts directory, for example, LendingPlatform.sol.
+Create a new Solidity file within the contracts directory, Like I have done, LendingPlatform.sol.
 Copy and paste the smart contract code into the LendingPlatform.sol file.
 
 **Frontend:** /(Already Done 😁🥳)
