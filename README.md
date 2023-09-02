@@ -51,7 +51,7 @@ Withdraw Funds: Users can withdraw their deposited funds and collateral.
 
 
 
-**~~Frontend:**
+**Frontend:**
 
 
 Create a React project for the frontend user interface.
@@ -68,12 +68,12 @@ Set up buttons and input fields for users to perform actions.
 
 
 
-**~~Testing:**
+**Testing:**
 
 
 Test the smart contract functions on a local Ethereum development network using tools like Ganache.
 
-~~Conclusion:
+**Conclusion:**
 
 
 The Lending Platform project aims to create a decentralized lending platform with key features such as depositing, borrowing, repaying, and withdrawing funds. By implementing smart contracts and a user-friendly frontend interface, users can engage in lending and borrowing activities seamlessly on the Ethereum blockchain. The project enhances financial inclusion and demonstrates the potential of blockchain technology in the fintech space.
