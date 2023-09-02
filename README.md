@@ -18,7 +18,7 @@ Frontend Interface: A React application provides a user-friendly interface for i
 Web3.js: A JavaScript library, Web3.js, connects the frontend to the Ethereum blockchain.
 
 
-*Smart Contract Features:
+**Smart Contract Features:**
 
 The smart contract includes the following features:
 
@@ -34,7 +34,7 @@ Interest Calculation: The contract calculates interest based on borrower and len
 
 
 
-***Frontend Interface:**
+**Frontend Interface:**
 
 
 The React frontend provides an intuitive interface for users to interact with the smart contract:
