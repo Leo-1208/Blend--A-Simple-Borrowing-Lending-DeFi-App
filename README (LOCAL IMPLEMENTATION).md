@@ -1,16 +1,16 @@
-**Prerequisites:**
+**Prerequisites:** /(😢😢)
 
 Node.js and npm: Make sure you have Node.js and npm (Node Package Manager) installed on your machine.
 Steps to Set Up and Run the DApp
 
-**Smart Contract:** /(Already Done)
+**Smart Contract:** /(Already Done 😁🥳)
 
 Create a new directory for your project and navigate to it in the terminal.
 Inside the project directory, create a new directory called contracts.
 Create a new Solidity file within the contracts directory, for example, LendingPlatform.sol.
 Copy and paste the smart contract code into the LendingPlatform.sol file.
 
-**Frontend:** /(Already Done)
+**Frontend:** /(Already Done 😁🥳)
 
 Inside the project directory, create a new directory called frontend.
 Navigate to the frontend directory in the terminal: cd frontend.
@@ -18,7 +18,7 @@ Initialize a new React project: npx create-react-app lending-dapp.
 Navigate to the new React project: cd lending-dapp.
 
 
-**Smart Contract Deployment:** /(Do)
+**Smart Contract Deployment:** /(Just Do! 😉)
 
 Deploy the smart contract to a local development network using tools like Ganache or a testnet like Ropsten.
 Make sure to note the contract address after deployment.
@@ -33,7 +33,7 @@ Your default web browser should open, displaying the DApp's user interface.
 If the browser doesn't open automatically, you can access the DApp by visiting http://localhost:3000 in your browser.
 
 
-**Interacting with the DApp:** /(Enjoy!!)
+**Interacting with the DApp:** /(Enjoy!! 😊😊)
 
 Connect your MetaMask wallet to the local development network (Ganache or other) that you used to deploy the smart contract.
 Import the accounts provided by your local development network into MetaMask.
