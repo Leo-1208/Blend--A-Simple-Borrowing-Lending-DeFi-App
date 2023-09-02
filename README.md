@@ -12,12 +12,14 @@ The Lending Platform project aims to create a decentralized lending platform usi
 **Project Components:**
 
 
-~~Smart Contract: A Solidity smart contract manages deposits, borrows, repayments, withdrawals, and interest calculations.
+Smart Contract: A Solidity smart contract manages deposits, borrows, repayments, withdrawals, and interest calculations.
 Frontend Interface: A React application provides a user-friendly interface for interacting with the smart contract.
 
 Web3.js: A JavaScript library, Web3.js, connects the frontend to the Ethereum blockchain.
 
+
 *Smart Contract Features:
+
 The smart contract includes the following features:
 
 Deposit: Users can deposit Ether into the contract, which updates user balances and the total deposit amount.
