@@ -3,13 +3,13 @@ The DApp covers major aspects of DeFi, including smart contracts, blockchain int
 
 
 
-Overview:
+**Overview:**
 
 The Lending Platform project aims to create a decentralized lending platform using Ethereum smart contracts. Users can deposit funds, borrow assets, repay loans, and withdraw funds with collateral. The project utilizes Solidity for smart contract development and React for the frontend user interface.
 
 
 
-Project Components:
+**Project Components:**
 
 ~~Smart Contract: A Solidity smart contract manages deposits, borrows, repayments, withdrawals, and interest calculations.
 Frontend Interface: A React application provides a user-friendly interface for interacting with the smart contract.
@@ -31,7 +31,7 @@ Interest Calculation: The contract calculates interest based on borrower and len
 
 
 
-*Frontend Interface:
+***Frontend Interface:**
 The React frontend provides an intuitive interface for users to interact with the smart contract:
 
 Display Account Information: Shows the user's account address and Ether balance.
@@ -46,7 +46,7 @@ Withdraw Funds: Users can withdraw their deposited funds and collateral.
 
 
 
-~~Frontend:
+**~~Frontend:**
 Create a React project for the frontend user interface.
 
 Set up Web3.js to connect to the Ethereum network and the smart contract.
@@ -61,7 +61,7 @@ Set up buttons and input fields for users to perform actions.
 
 
 
-~~Testing:
+**~~Testing:**
 Test the smart contract functions on a local Ethereum development network using tools like Ganache.
 
 ~~Conclusion:
