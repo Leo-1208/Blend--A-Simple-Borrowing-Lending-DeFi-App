@@ -16,9 +16,13 @@ Web3.js: A JavaScript library, Web3.js, connects the frontend to the Ethereum bl
 The smart contract includes the following features:
 
 Deposit: Users can deposit Ether into the contract, which updates user balances and the total deposit amount.
+
 Borrow: Users can borrow funds by providing collateral. Borrowed amount and collateral are stored, and user balances are updated.
+
 Repay: Borrowers can repay their loans, which updates balances and reduces the total borrowed amount.
+
 Withdraw: Users can withdraw deposited funds along with collateral, updating balances and the total deposit amount.
+
 Interest Calculation: The contract calculates interest based on borrower and lender interest rates over time.
 
 
@@ -26,17 +30,14 @@ Interest Calculation: The contract calculates interest based on borrower and len
 The React frontend provides an intuitive interface for users to interact with the smart contract:
 
 Display Account Information: Shows the user's account address and Ether balance.
-Display Contract Information: Displays total deposits, total borrows, borrower interest rate, and lender interest rate.
+
 Deposit Funds: Allows users to deposit Ether into the contract.
+
 Borrow Funds: Users can borrow funds by specifying an amount and collateral.
+
 Repay Loan: Borrowers can repay their loans by specifying the repayment amount.
+
 Withdraw Funds: Users can withdraw their deposited funds and collateral.
-Implementation Steps
-Smart Contract
-Write the Solidity smart contract with functions for deposit, borrow, repay, withdraw, and interest calculation.
-Implement event emission for deposit, borrow, repay, and withdraw actions.
-Set up initial values for total deposits, total borrows, and interest rates.
-Define the interest calculation logic using the block.timestamp for time calculations.
 
 ~~Frontend:
 Create a React project for the frontend user interface.
