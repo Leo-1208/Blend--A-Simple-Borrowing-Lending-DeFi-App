@@ -1,4 +1,4 @@
-**Prerequisites:** /(😢😢)
+**Prerequisites:** /(😢)
 
 Node.js and npm: Make sure you have Node.js and npm (Node Package Manager) installed on your machine.
 Steps to Set Up and Run the DApp
